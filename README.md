@@ -6,7 +6,7 @@
 
 > Frontend Developer with 3 years of experience, skilled in creating innovative web applications using Next.js, TypeScript, and GraphQL. Proficient in JAMstack, I excel at converting complex designs into dynamic, responsive web solutions. Committed to high-performance, efficient API integration, and responsive design. Known for effectively aligning technology with business goals and upholding high code quality and optimization standards.
 
-### I’m currently working as Frontend developer at [Caisy.io](https://caisy.io/)🏢
+### I’m currently working as Frontend developer at [Smart Bricks](https://smart-bricks.com/)🏢
 
 
 <hr>

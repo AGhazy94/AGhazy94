@@ -28,22 +28,6 @@ Node.js • Supabase • PostgreSQL • GraphQL • Docker
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 ScriptBee – AI Marketing Platform
-- Built AI agents for SEO, content generation, and automation  
-- Integrated 15+ APIs (SEMrush, social, scraping tools)  
-- Designed multi-agent workflows using LangChain + Trigger.dev  
-
----
-
-### 🏗️ Leicht Kitchen Designer
-- Developed high-performance, pixel-perfect UI for premium brand  
-- Integrated headless CMS with GraphQL  
-- Delivered scalable multi-language experience  
-
----
-
 ## 📈 What I focus on
 
 - Building **AI-native products**

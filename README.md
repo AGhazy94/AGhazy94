@@ -1,48 +1,17 @@
-# Ahmed Ghazy 👋
+# Hi, I'm Ahmed 👋
 
-### 🚀 Frontend Engineer building AI-powered products
+I'm a full-stack engineer, and most of my work is on the frontend. I care about pixel-perfect web apps and the small details that make a product feel right, and lately a lot of my work is on LLM-native apps.
 
-I build fast, scalable web applications and AI-driven products using modern frontend stacks and LLM-based systems.
+Right now I'm a Senior Frontend Engineer at [Smart Bricks](https://smart-bricks.com), an AI platform for real-estate investing. I lead the frontend architecture and built the listing search, where you type what you want in plain English and the AI turns it into filters. I also built the AI workflows behind [ScriptBee](https://www.scriptbee.ai/), an AI marketing platform.
 
----
+Before that, I spent almost three years on the frontend of [caisy](https://caisy.io), a headless CMS.
 
-## ⚡ What I do
+What I reach for most:
 
-- Build high-performance apps with **React, Next.js, TypeScript**
-- Integrate **LLMs, RAG systems, and AI agents** into real products
-- Ship features fast with a focus on **performance, scalability, and clean architecture**
-- Turn complex ideas into **production-ready products**
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, TanStack Query, Zustand, Storybook
+- **Backend:** Node.js, Hono, PostgreSQL, Supabase, Prisma, Docker, Trigger.dev
+- **AI:** LLM integrations, Mastra AI
 
----
+Away from the keyboard, I'm into perfumery and keep adding to my collection. Now and then a good video game takes the whole weekend.
 
-## 🧠 Tech Stack
-
-### Frontend
-React • Next.js • TypeScript • Tailwind • Zustand • React Query
-
-### AI & Automation
-OpenAI API • LangChain • RAG Systems • AI Agents • Prompt Engineering
-
-### Backend & Infra
-Node.js • Supabase • PostgreSQL • GraphQL • Docker
-
----
-
-## 📈 What I focus on
-
-- Building **AI-native products**
-- Shipping fast and iterating based on feedback
-- Writing clean, maintainable, scalable code
-
----
-
-## 📫 Connect with me
-
-- LinkedIn: https://www.linkedin.com/in/ahmedhg94/
-- Email: ahmed.h.ghazy@gmail.com
-
----
-
-## ⚡ Fun fact
-
-I enjoy building things fast, breaking them, and making them better 🚀
+[LinkedIn](https://www.linkedin.com/in/ahmedhg94/) · [Email](mailto:ahmed.h.ghazy@gmail.com)

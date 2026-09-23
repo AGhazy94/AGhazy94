@@ -14,4 +14,4 @@ What I reach for most:
 
 Away from the keyboard, I'm into perfumery and keep adding to my collection. Now and then a good video game takes the whole weekend.
 
-[LinkedIn](https://www.linkedin.com/in/ahmedhg94/) · [Email](mailto:ahmed.h.ghazy@gmail.com)
+[Portfolio](https://ahmed-ghazy.com) · [LinkedIn](https://www.linkedin.com/in/ahmedhg94/) · [Email](mailto:info@ahmed-ghazy.com)

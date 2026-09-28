@@ -1,10 +1,8 @@
 # Hi, I'm Ahmed 👋
 
-I'm a full-stack engineer, and most of my work is on the frontend. I care about pixel-perfect web apps and the small details that make a product feel right, and lately a lot of my work is on LLM-native apps.
+I'm a senior frontend engineer at [Smart Bricks](https://smart-bricks.com), an AI platform for real-estate investing, where I lead the frontend architecture. I care about the small details that make a product feel right, and when a feature needs an API, a database change or an AI step, I build that too.
 
-Right now I'm a Senior Frontend Engineer at [Smart Bricks](https://smart-bricks.com), an AI platform for real-estate investing. I lead the frontend architecture and built the listing search, where you type what you want in plain English and the AI turns it into filters. I also built the AI workflows behind [ScriptBee](https://www.scriptbee.ai/), an AI marketing platform.
-
-Before that, I spent almost three years on the frontend of [caisy](https://caisy.io), a headless CMS.
+I also built the AI workflows behind [ScriptBee](https://www.scriptbee.ai/), an AI marketing platform, as client work through caisy. Before Smart Bricks, I spent almost three years on the frontend of [caisy](https://caisy.io), a headless CMS.
 
 What I reach for most:
 
